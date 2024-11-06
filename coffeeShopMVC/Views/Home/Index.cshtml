@@ -35,12 +35,13 @@
     <div class="w-full h-screen py-12 flex flex-col md:flex-row bg-chochi-brown" id="secondDiv">
     
     
-        <div class="w-6/12 h-full inline-flex pt-64 px-16 flex-col mr-5">
+        <div class="lg:w-6/12 w-full h-full inline-flex pt-64 lg:px-16 px-5 flex-col mr-5">
             <span class="hidden lg:flex w-full drop-in text-9xl text-white">Coffee</span>
             <span class="hidden lg:flex w-full drop-in text-9xl text-white"> Is an Artform.</span>
+            <span class="flex lg:hidden w-full drop-in text-3xl text-white text-center">Coffee Is an Artform.</span>
         </div>
-        <div class="w-6/12 h-full inline-flex px-16 justify-end pt-32">
-            <div class="w-128 h-164 bg-transparent relative translate-up">
+        <div class="w-full lg:w-6/12 h-full lg:inline-flex px-5 lg:px-16 justify-end pt-32">
+            <div class=" w-56 h-96 lg:w-128 lg:h-164 bg-transparent relative translate-up">
                 <video autoplay playsinline loop="true" style="pointer-events: none;" class="w-full h-full absolute top-0 z-0" src="~/images/assets/site-images/6602213-hd_1080_1920_30fps.mp4"></video>
                 <div class="w-full h-full bg-transparent absolute z-10"></div>
             </div>
@@ -56,18 +57,27 @@
                     </svg>
                 </em>
             </span>
+
+
+            <span class="w-full flex flex-col px-5 translate-up text-5xl text-white text-center font-serif justify-center"><span class="block w-full mr-16"> Class </span>
+                <em class="relative">Matters.
+                    <svg style="position: absolute;top: -8px;left: -18px;width: calc(100% + 16px);height: calc(100% + 8px);pointer-events: none;" viewBox="0 0 500 150" preserveAspectRatio="none">
+                        <path style="stroke:#ffffff;stroke-width:.05em;stroke-dasharray: 1700 1700;" fill="none" d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7" />
+                    </svg>
+                </em>
+            </span>
         </div>
 
-        <div class="w-full flex flex-col drop-in">
+        <div class="w-full flex flex-col drop-in px-5">
             <div class="w-ful text-center my-10 text-white">
-                <p class="text-3xl tracking-normal text-white w-full md:w-7/12 mx-auto">
+                <p class="text-md lg:text-3xl tracking-normal text-white w-full md:w-7/12 mx-auto">
                     Don’t settle for less than the perfect fit for your daily driver .
                     Our powerful suite of exotic and rare beans  allows you to visualize and adapt every detail of your workflow to solve the worlds problems and pursue your dreams and goals .
                     Need a little help? check out our store and you will not be disappointed.
                 </p>
             </div>
 
-            <div class=" w-full h-auto flex flex-col p-24 bg-black">
+            <div class=" w-full h-auto flex flex-col px-5 py-24 md:p-24 bg-black">
                 @* This is the animated button section  *@
                 <div class="headline__cta-container mx-auto">
 
@@ -87,7 +97,7 @@
             </div>
         </div>
         
-        <div class="w-10/12 relative flex justify-center container mx-auto bg-transparent translate-up rounded-lg shadow-sm h-auto min-h-screen items-center">
+        <div class="hidden w-10/12 relative lg:flex justify-center container mx-auto bg-transparent translate-up rounded-lg shadow-sm h-auto min-h-screen items-center">
             <img class="w-full h-auto rounded-xl absolute z-0" src="~/images/assets/site-images/coffee-3.jpg"/>
             <div class="translate-up overflow-hidden  h-164 bg-transparent shadow-lg w-96 mx-auto absolute z-10">
                 <img class="w-full h-auto scroller" src="~/images/assets/site-images/Screenshot 2024-11-03 at 00-45-40 Store - WebstarsCoffee.png"/>

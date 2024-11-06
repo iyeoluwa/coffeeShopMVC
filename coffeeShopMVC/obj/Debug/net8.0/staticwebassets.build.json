@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xJDfQcx80Yg8L6YgE725vTv+9kl3YlnFbRQl/WTta9c=",
+  "Hash": "rKlBTSSzmDmdXH1/GiexRbfiWM6s6rYJCigf/ByksJg=",
   "Source": "coffeeShopMVC",
   "BasePath": "_content/coffeeShopMVC",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "coffeeShopMVC/wwwroot",
       "Source": "coffeeShopMVC",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/bundle/coffeeShopMVC.styles.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/bundle/coffeeShopMVC.styles.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/bundle/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/bundle/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "coffeeShopMVC.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/bundle/coffeeShopMVC.styles.css"
+      "OriginalItemSpec": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/bundle/coffeeShopMVC.styles.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/projectbundle/coffeeShopMVC.bundle.scp.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/projectbundle/coffeeShopMVC.bundle.scp.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Computed",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/projectbundle/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "coffeeShopMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/projectbundle/coffeeShopMVC.bundle.scp.css"
+      "OriginalItemSpec": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/obj/Debug/net8.0/scopedcss/projectbundle/coffeeShopMVC.bundle.scp.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/css/contact.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/css/contact.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "css/contact.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot/css/contact.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/css/site.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/css/site.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot/css/site.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/css/style.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/css/style.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot/css/style.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/css/styles.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/css/styles.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot/css/styles.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/favicon.ico",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/favicon.ico",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot/favicon.ico"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/6602213-hd_1080_1920_30fps.mp4",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/6602213-hd_1080_1920_30fps.mp4",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/6602213-hd_1080_1920_30fps.mp4",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/6602213-hd_1080_1920_30fps.mp4"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/coffee-3.jpg",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/coffee-3.jpg",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/coffee-3.jpg",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/coffee-3.jpg"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/favpng_ipoh-white-coffee-cafe-frutti-di-bosco-coffee-bean.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/favpng_ipoh-white-coffee-cafe-frutti-di-bosco-coffee-bean.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/favpng_ipoh-white-coffee-cafe-frutti-di-bosco-coffee-bean.png",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/favpng_ipoh-white-coffee-cafe-frutti-di-bosco-coffee-bean.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/FeelsGood_1kg_Front_Transp_1_6a9684e5-4034-479f-8495-017a6db0aa82.webp",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/FeelsGood_1kg_Front_Transp_1_6a9684e5-4034-479f-8495-017a6db0aa82.webp",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/FeelsGood_1kg_Front_Transp_1_6a9684e5-4034-479f-8495-017a6db0aa82.webp",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/FeelsGood_1kg_Front_Transp_1_6a9684e5-4034-479f-8495-017a6db0aa82.webp"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/ItaloDisco_1kg_Front_Transp_1.webp",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/ItaloDisco_1kg_Front_Transp_1.webp",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/ItaloDisco_1kg_Front_Transp_1.webp",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/ItaloDisco_1kg_Front_Transp_1.webp"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/Orthodox_1kg_Front_Transp_1_73d67a48-cd79-4e0a-9465-72bede147c6d.webp",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/Orthodox_1kg_Front_Transp_1_73d67a48-cd79-4e0a-9465-72bede147c6d.webp",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/Orthodox_1kg_Front_Transp_1_73d67a48-cd79-4e0a-9465-72bede147c6d.webp",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/Orthodox_1kg_Front_Transp_1_73d67a48-cd79-4e0a-9465-72bede147c6d.webp"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/sa_orth_web_tabs_2_1.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/sa_orth_web_tabs_2_1.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/sa_orth_web_tabs_2_1.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/sa_orth_web_tabs_2_1.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/sa_wa_web_tabs_2_1.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/sa_wa_web_tabs_2_1.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/sa_wa_web_tabs_2_1.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/sa_wa_web_tabs_2_1.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/sa_web_tabs_1.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/sa_web_tabs_1.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/sa_web_tabs_1.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/sa_web_tabs_1.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/Screenshot 2024-11-03 at 00-45-40 Store - WebstarsCoffee.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/Screenshot 2024-11-03 at 00-45-40 Store - WebstarsCoffee.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/Screenshot 2024-11-03 at 00-45-40 Store - WebstarsCoffee.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/Screenshot 2024-11-03 at 00-45-40 Store - WebstarsCoffee.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/SITIO_KISBONG.webp",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/SITIO_KISBONG.webp",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/SITIO_KISBONG.webp",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/SITIO_KISBONG.webp"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/tonight-tonight.webp",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/tonight-tonight.webp",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/tonight-tonight.webp",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/tonight-tonight.webp"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/WideAwake_1kg_Front_Transp_1.webp",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/site-images/WideAwake_1kg_Front_Transp_1.webp",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/site-images/WideAwake_1kg_Front_Transp_1.webp",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/site-images/WideAwake_1kg_Front_Transp_1.webp"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/svg/coffee-img-1.svg",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/svg/coffee-img-1.svg",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/svg/coffee-img-1.svg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/svg/coffee-img-1.svg"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/svg/coffee-img-2.svg",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/assets/svg/coffee-img-2.svg",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/assets/svg/coffee-img-2.svg",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot/images/assets/svg/coffee-img-2.svg"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/[removal.ai]_0d6f7d4b-d11f-40cf-84a8-b5c18b71afb6-screenshot-2024-10-12-at-12-50-32-pm.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/[removal.ai]_0d6f7d4b-d11f-40cf-84a8-b5c18b71afb6-screenshot-2024-10-12-at-12-50-32-pm.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/logo/[removal.ai]_0d6f7d4b-d11f-40cf-84a8-b5c18b71afb6-screenshot-2024-10-12-at-12-50-32-pm.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot/images/logo/[removal.ai]_0d6f7d4b-d11f-40cf-84a8-b5c18b71afb6-screenshot-2024-10-12-at-12-50-32-pm.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/freepik_br_71c053e1-15eb-454f-8b4e-7725f0314145.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/freepik_br_71c053e1-15eb-454f-8b4e-7725f0314145.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/logo/freepik_br_71c053e1-15eb-454f-8b4e-7725f0314145.png",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot/images/logo/freepik_br_71c053e1-15eb-454f-8b4e-7725f0314145.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa-full.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa-full.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa-full.png",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot/images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa-full.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa.png",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot/images/logo/freepik_br_c403c96e-5897-4e30-9ffd-0fbd11d43caa.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/Screenshot 2024-10-12 at 12.48.18\u202FPM.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/Screenshot 2024-10-12 at 12.48.18\u202FPM.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/logo/Screenshot 2024-10-12 at 12.48.18\u202FPM.png",
       "AssetKind": "All",
@@ -530,10 +530,10 @@
       "OriginalItemSpec": "wwwroot/images/logo/Screenshot 2024-10-12 at 12.48.18\u202FPM.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/Screenshot 2024-10-12 at 12.50.32\u202FPM.png",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/images/logo/Screenshot 2024-10-12 at 12.50.32\u202FPM.png",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "images/logo/Screenshot 2024-10-12 at 12.50.32\u202FPM.png",
       "AssetKind": "All",
@@ -549,10 +549,10 @@
       "OriginalItemSpec": "wwwroot/images/logo/Screenshot 2024-10-12 at 12.50.32\u202FPM.png"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/js/site.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/js/site.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -568,10 +568,10 @@
       "OriginalItemSpec": "wwwroot/js/site.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -587,10 +587,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -606,10 +606,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -625,10 +625,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -644,10 +644,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -682,10 +682,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -701,10 +701,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -720,10 +720,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -739,10 +739,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -758,10 +758,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -777,10 +777,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -796,10 +796,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -834,10 +834,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -853,10 +853,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -872,10 +872,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -891,10 +891,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -910,10 +910,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -929,10 +929,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -948,10 +948,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -967,10 +967,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1005,10 +1005,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1024,10 +1024,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1043,10 +1043,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1062,10 +1062,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1081,10 +1081,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1100,10 +1100,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1119,10 +1119,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1138,10 +1138,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1176,10 +1176,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1195,10 +1195,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1233,10 +1233,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1252,10 +1252,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1271,10 +1271,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1290,10 +1290,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1328,10 +1328,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1347,10 +1347,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1366,10 +1366,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.js.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1385,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1404,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/LICENSE",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/bootstrap/LICENSE",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1423,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot/lib/bootstrap/LICENSE"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1442,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1461,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1480,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/additional-methods.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1499,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1518,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/additional-methods.min.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1537,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1556,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/dist/jquery.validate.min.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/LICENSE.md",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery-validation/LICENSE.md",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1575,10 +1575,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery-validation/LICENSE.md"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/dist/jquery.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/dist/jquery.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1594,10 +1594,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/dist/jquery.min.js",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/dist/jquery.min.js",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.js"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/dist/jquery.min.map",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/dist/jquery.min.map",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot/lib/jquery/dist/jquery.min.map"
     },
     {
-      "Identity": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/LICENSE.txt",
+      "Identity": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/lib/jquery/LICENSE.txt",
       "SourceId": "coffeeShopMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/wwwroot/",
+      "ContentRoot": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/wwwroot/",
       "BasePath": "_content/coffeeShopMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",

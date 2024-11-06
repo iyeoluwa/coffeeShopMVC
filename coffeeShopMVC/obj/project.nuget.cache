@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eq/EB5cMBtUqVXP0UoxUrST3kPVrPDvdARjsBXiO1BdAvoejty0WzPbHt8QxodHTTe6zLk+LQh9Gbsd5VgkHmA==",
+  "dgSpecHash": "iBw1Qu14yOXb18UMSJwuiVwZdhXXLkX6086GVQ/np5FoFYznMYFjniPprdLUYdv8VIb4QnRYJrOin4i6/H38xA==",
   "success": true,
-  "projectFilePath": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/coffeeShopMVC.csproj",
+  "projectFilePath": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/coffeeShopMVC.csproj",
   "expectedPackageFiles": [
     "/Users/iyeoluwafajimi/.nuget/packages/azure.core/1.35.0/azure.core.1.35.0.nupkg.sha512",
     "/Users/iyeoluwafajimi/.nuget/packages/azure.identity/1.10.3/azure.identity.1.10.3.nupkg.sha512",

@@ -8036,11 +8036,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/coffeeShopMVC.csproj",
+      "projectUniqueName": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/coffeeShopMVC.csproj",
       "projectName": "coffeeShopMVC",
-      "projectPath": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/coffeeShopMVC.csproj",
+      "projectPath": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/coffeeShopMVC.csproj",
       "packagesPath": "/Users/iyeoluwafajimi/.nuget/packages/",
-      "outputPath": "/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/obj/",
+      "outputPath": "/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/iyeoluwafajimi/.nuget/NuGet/NuGet.Config"

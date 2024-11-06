@@ -17,55 +17,55 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = coffeeShopMVC
 build_property.RootNamespace = coffeeShopMVC
-build_property.ProjectDir = /Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/
+build_property.ProjectDir = /Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC
+build_property.MSBuildProjectDirectory = /Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Product/Shop.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Product/Shop.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Home/contact.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Home/contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Home/Index.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Home/SignIn.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Home/SignIn.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9TaWduSW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Product/details.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Product/details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9kZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Product/index.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Product/index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUHJvZHVjdC9pbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Shared/Error.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/_ViewImports.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/_ViewStart.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/iyeoluwafajimi/RiderProjects/coffeeShopMVC/coffeeShopMVC/Views/Shared/_Layout.cshtml]
+[/Users/iyeoluwafajimi/Documents/GitHub/coffeeShopMVC/coffeeShopMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-jggvh3a0la
