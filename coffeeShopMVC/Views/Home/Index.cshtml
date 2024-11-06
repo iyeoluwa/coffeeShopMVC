@@ -1,0 +1,231 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    
+}
+<div class="relative h-auto min-vh-100 pt-24">
+    <div class="z-0 absolute inset-0 w-full min-h-screen" >
+        <!-- This is where the coffee bean will be -->
+        <div class="w-full h-screen overflow-hidden" style="background-color: #f9fcfc;">
+            <canvas class="canvas"></canvas>
+        </div>
+    </div>
+    
+    <div class="w-full h-screen py-10 flex flex-col md:flex-row justify-between bg-white bg-opacity-5">
+        <div class="w-full md:w-6/12 h-full px-4 md:px-10  flex items-start">
+            <div class="w-full md:w-164 h-auto md:h-128 relative py-6 md:py-6 backdrop-blur-sm px-4 md:px-6 top-10 bg-white bg-clip-padding backdrop-filter bg-opacity-5">
+                <div class="w-10 h-10 absolute top-0 left-0 border-l-2 border-coffee-brown-reddish border-t-2"></div>
+                <div class="w-10 h-10 absolute top-0 right-0 border-r-2 border-coffee-brown-reddish border-t-2"></div>
+                <div class="w-10 h-10 absolute bottom-0 right-0 border-r-2 border-coffee-brown-reddish border-b-2"></div>
+                <div class="w-10 h-10 absolute bottom-0 left-0 border-l-2 border-coffee-brown-reddish border-b-2"></div>
+    
+                <div class="w-full h-auto flex flex-col">
+                    <div class="w-full block capitalize text-d-gray-2 text-4xl md:text-6xl lg:text-8xl my-3">
+                        your <span class="inline-block border-b-8 border-coffee-bean-brown">coffee.</span>
+                    </div>
+                    <div class="w-full block capitalize text-d-gray-2 text-4xl md:text-6xl lg:text-8xl my-3">
+                        your <span class="inline-block bg-coffee-bean-brown px-1 text-white">cup.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+    
+    </div>
+    @* This section is the second half of the webpage *@
+    <div class="w-full h-screen py-12 flex flex-col md:flex-row bg-chochi-brown" id="secondDiv">
+    
+    
+        <div class="w-6/12 h-full inline-flex pt-64 px-16 flex-col mr-5">
+            <span class="hidden lg:flex w-full drop-in text-9xl text-white">Coffee</span>
+            <span class="hidden lg:flex w-full drop-in text-9xl text-white"> Is an Artform.</span>
+        </div>
+        <div class="w-6/12 h-full inline-flex px-16 justify-end pt-32">
+            <div class="w-128 h-164 bg-transparent relative translate-up">
+                <video autoplay playsinline loop="true" style="pointer-events: none;" class="w-full h-full absolute top-0 z-0" src="~/images/assets/site-images/6602213-hd_1080_1920_30fps.mp4"></video>
+                <div class="w-full h-full bg-transparent absolute z-10"></div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="w-full min-h-screen h-auto  py-96 flex flex-col bg-black  justify-center" id="thirdDiv">
+        <div class="w-full flex justify-center mb-24">
+            <span class="hidden lg:flex mx-auto translate-up text-9xl text-white text-center font-serif"><span class="inline-flex mr-16"> Class </span>
+                <em class="relative">Matters.
+                    <svg style="position: absolute;top: -8px;left: -18px;width: calc(100% + 16px);height: calc(100% + 8px);pointer-events: none;" viewBox="0 0 500 150" preserveAspectRatio="none">
+                        <path style="stroke:#ffffff;stroke-width:.05em;stroke-dasharray: 1700 1700;" fill="none" d="M325,18C228.7-8.3,118.5,8.3,78,21C22.4,38.4,4.6,54.6,5.6,77.6c1.4,32.4,52.2,54,142.6,63.7 c66.2,7.1,212.2,7.5,273.5-8.3c64.4-16.6,104.3-57.6,33.8-98.2C386.7-4.9,179.4-1.4,126.3,20.7" />
+                    </svg>
+                </em>
+            </span>
+        </div>
+
+        <div class="w-full flex flex-col drop-in">
+            <div class="w-ful text-center my-10 text-white">
+                <p class="text-3xl tracking-normal text-white w-full md:w-7/12 mx-auto">
+                    Don’t settle for less than the perfect fit for your daily driver .
+                    Our powerful suite of exotic and rare beans  allows you to visualize and adapt every detail of your workflow to solve the worlds problems and pursue your dreams and goals .
+                    Need a little help? check out our store and you will not be disappointed.
+                </p>
+            </div>
+
+            <div class=" w-full h-auto flex flex-col p-24 bg-black">
+                @* This is the animated button section  *@
+                <div class="headline__cta-container mx-auto">
+
+                    <a class="cta cta--secondary cta--light headline__cta" asp-area="" asp-controller="Product" asp-action="index">
+
+                        <span class="design-intelligence__icon-box blueprint__ai-icon-cta design-intelligence__icon-box--large pr-10" aria-hidden="true">
+
+                            <div class="ai-dots design-intelligence__ai-icon design-intelligence__ai-icon--large" aria-hidden="true">
+                                <span class="ai-dots__dot ai-dots__dot--light ai-dots__dot--large"></span>
+                                <span class="ai-dots__dot ai-dots__dot--light ai-dots__dot--medium"></span>
+                                <span class="ai-dots__dot ai-dots__dot--light ai-dots__dot--small"></span>
+                            </div>
+                        </span>
+                        Get your own coffee
+                    </a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="w-10/12 relative flex justify-center container mx-auto bg-transparent translate-up rounded-lg shadow-sm h-auto min-h-screen items-center">
+            <img class="w-full h-auto rounded-xl absolute z-0" src="~/images/assets/site-images/coffee-3.jpg"/>
+            <div class="translate-up overflow-hidden  h-164 bg-transparent shadow-lg w-96 mx-auto absolute z-10">
+                <img class="w-full h-auto scroller" src="~/images/assets/site-images/Screenshot 2024-11-03 at 00-45-40 Store - WebstarsCoffee.png"/>
+            </div>
+        </div>
+        
+       
+    </div>
+</div>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+
+  <script>
+    // Scene, Camera, Renderer
+    const scene = new THREE.Scene();
+    const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+    const renderer = new THREE.WebGLRenderer({ canvas: document.querySelector('.canvas') });
+    renderer.setSize(window.innerWidth, window.innerHeight);
+    renderer.setClearColor(0xf9fcfc); // Set background color to white
+
+    // Light
+    const ambientLight = new THREE.AmbientLight(0x404040); // soft white light
+    scene.add(ambientLight);
+    const directionalLight = new THREE.DirectionalLight(0xffffff, 0.9);
+    directionalLight.position.set(1, 1, 1).normalize();
+    scene.add(directionalLight);
+
+    // Function to create coffee beans
+    function createCoffeeBean() {
+        const beanGeometry = new THREE.SphereGeometry(1, 32, 32);
+        const beanMaterial = new THREE.MeshPhongMaterial({ color: 0x6F4E37 });
+        const coffeeBean = new THREE.Mesh(beanGeometry, beanMaterial);
+
+        // Modify geometry to create a coffee bean shape
+        coffeeBean.scale.set(4, 2.5, 2); // Make the bean much bigger
+
+        // Create a more realistic groove (line) down the center
+        const grooveGeometry = new THREE.BoxGeometry(0.2, 0.2, 3); // A box to act as the groove
+        const grooveMaterial = new THREE.MeshPhongMaterial({ color: 0x4E342E });
+
+        const groove = new THREE.Mesh(grooveGeometry, grooveMaterial);
+
+        // Position the groove inside the coffee bean, so it looks like a deep cut
+        groove.position.set(0, -0.4, 0); // Adjust its position to match the bean shape
+        groove.scale.set(1.5, 0.7, 0.7); // Make the groove narrower and longer
+        groove.rotation.z = Math.PI / 2; // Rotate it along the correct axis
+
+        // Embed the groove deeper into the bean by translating along its surface curve
+        groove.position.y = 0;
+        groove.position.z = 0;
+        groove.rotation.x = -Math.PI / 4; // Slight curve along the x-axis to match the bean's shape
+
+        coffeeBean.add(groove); // Add the groove to the coffee bean
+
+        return coffeeBean;
+    }
+
+    // Create and position multiple coffee beans
+    const coffeeBeans = [];
+    const rotationSpeeds = [];
+    for (let i = 0; i < 30; i++) {
+        const coffeeBean = createCoffeeBean();
+
+        // Randomize position - larger spread to accommodate bigger beans
+        coffeeBean.position.x = (Math.random() - 0.5) * 100;
+        coffeeBean.position.y = (Math.random() - 0.5) * 100;
+        coffeeBean.position.z = (Math.random() - 0.5) * 100;
+
+        // Randomize rotation direction and speed for each bean
+        rotationSpeeds.push({
+            x: (Math.random() - 0.5) * 0.02,
+            y: (Math.random() - 0.5) * 0.02,
+            z: (Math.random() - 0.5) * 0.02,
+        });
+
+        scene.add(coffeeBean);
+        coffeeBeans.push(coffeeBean);
+    }
+
+    // Position Camera further back to see the larger beans
+    camera.position.z = 10;
+
+    // Animate
+    function animate() {
+        requestAnimationFrame(animate);
+
+        // Rotate each coffee bean with different speeds and directions
+        coffeeBeans.forEach((bean, index) => {
+            bean.rotation.x += rotationSpeeds[index].x;
+            bean.rotation.y += rotationSpeeds[index].y;
+            bean.rotation.z += rotationSpeeds[index].z;
+        });
+
+        renderer.render(scene, camera);
+    }
+    animate();
+
+    // Handle resizing of window
+    window.addEventListener('resize', () => {
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        camera.aspect = window.innerWidth / window.innerHeight;
+        camera.updateProjectionMatrix();
+    });
+    //this function monitors if the full page to add the apprioprate classes 
+
+    const faders = document.querySelectorAll('.drop-in');
+    const sliders = document.querySelectorAll('.translate-up');
+    const appearOptions = {
+        threshold : 0,
+        rootMargin:"0px 0px -100px 0px"
+    };
+    console.log(appearOptions);
+
+    const appearOnScroll = new IntersectionObserver
+    (function(
+        entries,
+        appearOnScroll
+    ){
+        entries.forEach(entry=>{
+            if(!entry.isIntersecting){
+
+                return;
+
+            }else{
+                entry.target.classList.add('show');
+                appearOnScroll.unobserve(entry.target);
+
+            }
+        })
+    },appearOptions);
+
+    faders.forEach(fader=>{
+        appearOnScroll.observe(fader);
+    })
+    sliders.forEach(fader=>{
+        appearOnScroll.observe(fader);
+    })
+
+
+  </script>

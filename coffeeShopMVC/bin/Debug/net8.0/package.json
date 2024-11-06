@@ -1,0 +1,15 @@
+{
+  "name": "coffeeshopmvc",
+  "version": "1.0.0",
+  "description": "This is a coffeeShop fullstack application project, that uses the MVC framework",
+  "main": "index.js",
+  "scripts": {
+    "css:build": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/styles.css --minify",
+    "watch": "npx tailwindcss -i ./wwwroot/css/site.css -o ./wwwroot/css/styles.css --watch"
+  },
+  "author": "Fajimi Iyeoluwa",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}

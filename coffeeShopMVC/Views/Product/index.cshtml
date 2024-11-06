@@ -1,0 +1,41 @@
+﻿@{
+ViewData["Title"] = "Store";
+}
+@model IEnumerable<Product>
+<div class="w-full pt-56">
+    @* This is where the store should be *@
+
+    <div class="flex flex-col pt-10 px-10">
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+            @* I am going to loop through each of the values for the online items in the store *@
+            
+            
+            
+            @foreach (var coffees in Model)
+            {
+                <a class="group" href="@Url.Action("Details","Product",new{id=@coffees.Id})">
+                    <div class="w-full  md:w-64 xl:w-96 h-auto bg-white overflow-hidden mt-16 mb-16">
+                        <div class="m-h-96 h-100 bg-gray-100 group-hover:transform group-hover:-translate-y-1.5 transition-all">
+                            <div class="w-full h-full flex justify-center items-center">
+                                <img class="flex w-auto h-72 group-hover:transform group-hover:scale-105 transition" src="@coffees.image"/>
+                            </div>
+                        </div>
+                        <div class="w-full h-auto flex flex-col align-bottom bg-white py-2 px-2">
+                            <div class="flex w-full-p-2 flex-col">
+                                @* This is where the title of the coffee will be *@
+                                <div class="w-full text-black font-semibold uppercase text-md group-hover:underline">
+                                   @coffees.ProductName
+                                </div>
+                                <div class="w-full font-semibold group-hover:underline">
+                                    @($"${coffees.price:F2} AUD")
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </a>
+            }
+          
+            
+        </div>
+    </div>
+</div>
